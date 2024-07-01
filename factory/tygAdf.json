@@ -1,0 +1,9 @@
+{
+	"name": "tygAdf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7d3ba3bf-32f4-44dc-ae27-4f4f29ee3817",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
